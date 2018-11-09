@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-fuild {
+    height: 100px;
+}
+
+.bg-danger {
+    font-weight: bolder;
+    font-size: 60px;
+    background-color: red !important;
+}
+
+.page-nav {
+    background-color: white !important;
+    border-bottom: 1px solid lightgray;
+}
+
+.col4 {
+    position: relative;
+    height: 2819px;
+    width: 71%;
+}
+
+.page-nav a {
+    color: black !important;
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: 700;
+    border-right: 1px solid lightgray !important;
+    padding-right: 20px !important;
+    padding-left:  20px !important;
+}
+
+.page-nav a:hover {
+    color: red !important;
+    text-decoration: none;
+} 
