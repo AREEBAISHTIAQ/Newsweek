@@ -36,4 +36,118 @@ body {
 .page-nav a:hover {
     color: red !important;
     text-decoration: none;
-} 
+}
+
+.block-title {
+    color: gray;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.p-2 h3 a {
+    color: black;
+    font-weight: 700;
+    letter-spacing: -1px;
+    font-size: 23px;
+}
+
+
+.p-2 h3 a:hover {
+    text-decoration: red underline;
+}
+
+.related {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    padding: 10px; 
+}
+
+.related a {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.related a:hover {
+    color: red;
+}
+
+.d-flex {
+    width: 400px;
+}
+
+.bg-article {
+    width: 591px;
+    padding-left: 5% !important;
+}
+
+.bg-article img {
+    width: 550px !important;
+}
+
+span h4 a {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+span h4 a:hover {
+    text-decoration: red underline !important;
+}
+
+.bg-area {
+    width: 591px;
+}
+
+.last-div {
+    width: 350px;
+}
+
+span h4 {
+    padding-left: 27% !important;
+}
+
+.padding {
+    padding-left: 27% !important;
+}
+
+.border-div {
+    border-top: 1px solid lightgray;
+    margin-left: 5% !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.more {
+    padding-left: 8% !important;
+}
+
+.last-div span a {
+    color: black;
+    font-weight: bolder;
+}
+
+.last-div span a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.last-div p a {
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+}
+.last-div p a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.last-div {
+    border-bottom: 1px solid lightgray;
+    margin-left: 2%;
+    padding-top: 5% !important;
+    padding-bottom: 5% !important;
+}
+
+.last-div img {
+    margin-right: 3%;
+}
