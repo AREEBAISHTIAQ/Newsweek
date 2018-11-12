@@ -194,3 +194,31 @@ span h4 {
     border-right: none !important;
     border-left: none !important;
 }
+
+.copyright {
+    font-size: 12px;
+    line-height: 12px;
+    text-transform: uppercase;
+    color: #666;
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+footer {
+    width: 1300px !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+.last-footer a {
+    color: gray;
+    margin: 5px;
+    padding-right: 10px;
+    border-right: 1px solid lightgray;
+}
+
+.last-footer a:hover {
+    color: black;
+    text-decoration: none;
+}
