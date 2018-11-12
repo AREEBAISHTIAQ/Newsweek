@@ -151,3 +151,18 @@ span h4 {
 .last-div img {
     margin-right: 3%;
 }
+
+.link {
+    color: black;
+    font-weight: bolder;
+}
+
+.link:hover {
+    color: black;
+    text-decoration: red underline;
+}
+
+.editor {
+    font-weight: bolder;
+    border-bottom: 1px solid lightgray;
+}
