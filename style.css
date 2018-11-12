@@ -166,3 +166,12 @@ span h4 {
     font-weight: bolder;
     border-bottom: 1px solid lightgray;
 }
+
+.summary {
+    font-size: small;
+}
+
+.slide {
+    font-size: 18px;
+    font-size: bolder;
+}
